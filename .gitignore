@@ -19,10 +19,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Ignore model files if you don't want to push them
-*.pkl
-*.h5
-*.joblib
 
 # Ignore VS Code settings (optional)
 .vscode/
